@@ -91,10 +91,10 @@ void		handle_keys(void)
 	else if ((res == 32 || g_game.cycle == 1) && g_game.visu)
 	{
 		system("pkill afplay");
-		system("afplay /Users/ydeineha/corwar_fin/visu/audio/matrix.wav &");
+		system("afplay ./visu/audio/matrix.wav &");
 		make_pause();
-		system("pkill afplay");
-		system("afplay /Users/ydeineha/corwar_fin/visu/audio/fight.mp3 &");
+		// system("pkill afplay");
+		// system("afplay ./visu/audio/fight.mp3 &");
 	}
 	else if (res == 'e' && g_game.timeout > 99)
 		g_game.timeout -= 100;
