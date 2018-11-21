@@ -2,8 +2,8 @@
 
 Corewar PDF project - [corewar.en.pdf](https://github.com/honoyr/ft_printf/files/2602610/corewar.en.pdf)
 
-![cor_gif_1080 3](https://user-images.githubusercontent.com/33399226/48820460-ce834c80-ed09-11e8-8ef7-4a7f71eec6d7.gif)
-[YOUTUBE ![corewar_screenshot-1](https://user-images.githubusercontent.com/33399226/48819234-d0e2a800-ed03-11e8-9842-ac65e92aa820.png)](https://youtu.be/ErC6H4y1M60)
+
+[YOUTUBE ![cor_gif_1080 3](https://user-images.githubusercontent.com/33399226/48820460-ce834c80-ed09-11e8-8ef7-4a7f71eec6d7.gif)](https://youtu.be/ErC6H4y1M60)
 The aim of the project: to recreate corewar game, originally created in 1984. - [WIKI](https://en.wikipedia.org/wiki/Core_War)
 
 Some guide to understand concept - [link](http://vyznev.net/corewar/guide.html#contents)
